@@ -1,5 +1,5 @@
 # YARA_RULE
-Files Description:
+YARA_DEMO.zip file contains following files:
 
 1. graph.pdf :  A sample pdf file.        
 2. pdf_EXE_check : file contains YARA rule for PDF and EXE (PE) file detection.
